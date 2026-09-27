@@ -56,7 +56,7 @@ September 2022 – July 2026
 
 **July 2024 – August 2024**
 
-- Conducted literature research in computer vision, machine learning and neural networks, summarising research methods, experimental approaches and technical findings in LaTeX reports.
+- Conducted literature research in computer vision, machine learning and neural networks, summarising research methods, experimental approaches and technical findings in reports.
 - Participated in wind farm power forecasting and employee attrition analysis projects.
 - Performed data cleaning, exploratory data analysis, feature extraction and model testing.
 - Presented analytical findings to help the team understand data patterns and evaluate model performance.
