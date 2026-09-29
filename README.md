@@ -34,12 +34,11 @@ September 2022 – July 2026
 
 ## Experience
 
-### Software Development Intern — Google
-
-- Designed and developed a desktop GUI agent powered by multimodal large language models, covering screen perception, task planning, tool use, action execution and result feedback.
-- Built desktop perception and control modules using Python, PyAutoGUI and OpenCV, supporting screen capture, UI element recognition, text extraction, coordinate localisation, mouse actions and keyboard input.
-- Developed agent workflows with LangChain and LlamaIndex for task understanding, task decomposition and action generation, supporting both locally deployed models and API-based models.
-- Implemented step-by-step execution, error detection, automatic retries, logging and execution monitoring to improve reliability across different desktop environments.
+### Current Internship Project
+- Designing and developing a desktop GUI agent powered by multimodal large language models, covering screen perception, task planning, tool use, action execution and result feedback.
+- Building desktop perception and control modules using Python, PyAutoGUI and OpenCV, supporting screen capture, UI element recognition, text extraction, coordinate localisation, mouse actions and keyboard input.
+- Developing agent workflows with LangChain and LlamaIndex for task understanding, task decomposition and action generation, supporting both locally deployed models and API-based models.
+- Implementing step-by-step execution, error detection, automatic retries, logging and execution monitoring to improve reliability across different desktop environments.
 
 ### Software Development Intern — Wuhan Dingbi Technology Co., Ltd.
 
