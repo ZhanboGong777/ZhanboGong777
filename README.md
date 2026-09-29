@@ -35,8 +35,6 @@ September 2022 – July 2026
 
 ### Software Development Intern — Google
 
-**September 2026 – Present**
-
 - Designed and developed a desktop GUI agent powered by multimodal large language models, covering screen perception, task planning, tool use, action execution and result feedback.
 - Built desktop perception and control modules using Python, PyAutoGUI and OpenCV, supporting screen capture, UI element recognition, text extraction, coordinate localisation, mouse actions and keyboard input.
 - Developed agent workflows with LangChain and LlamaIndex for task understanding, task decomposition and action generation, supporting both locally deployed models and API-based models.
