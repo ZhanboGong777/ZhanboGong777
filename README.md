@@ -30,6 +30,7 @@ September 2022 – July 2026
 - GPA: 6.5 / 7.0
 - Recognition of Academic Excellence in 2024
 - Recognition of Academic Excellence in 2025
+- Recognition of Academic Excellence in 2026
 
 ## Experience
 
